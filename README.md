@@ -17,3 +17,8 @@ for customize editview  **https://github.com/rengwuxian/MaterialEditText**
 	**https://www.toptal.com/android/functional-reactive-android-rxjava**
 Mindorks blog for RxJava
 	**https://blog.mindorks.com/a-complete-guide-to-learn-rxjava-b55c0cea3631**
+	
+	
+Link for converting simple file to json online Or Live JSON Generator
+	**http://www.objgen.com/json**
+	
