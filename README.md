@@ -24,10 +24,13 @@ Link for converting simple file to json online Or Live JSON Generator
 
 Dialog in android
 	**https://www.youtube.com/watch?v=5rtqVum9igg&list=PLfuE3hOAeWhYmxCVMck_voZPJqlORxAkU**
+	
 Android Data persistance
 	**https://www.youtube.com/watch?v=-RJvbivauBQ&list=PLfuE3hOAeWhYS7M0laxsBhJfYGB9m1PZs**
+	
 Shared Preference 
 	**https://www.youtube.com/watch?v=aV2Tb9G_-SQ&list=PLfuE3hOAeWhYHspDWUIBFGEacycoAWDCt**
+	
 Android Multithreading Basics
 	**https://www.youtube.com/watch?v=kpFwxJFYnOo&list=PLfuE3hOAeWhYspjqABfkf97AzW1XNXgjZ**
 
