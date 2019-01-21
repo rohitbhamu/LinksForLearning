@@ -3,8 +3,8 @@ I put all the links of videos/blogs and article that I want to read in future or
 
 
 just trying to learn some git commands so playing with them
-******This is worked for me when I first created repo with readme file ******
-git pull --allow-unrelated-histories origin master
+**his is worked for me when I first created repo with readme file**
+	**git pull --allow-unrelated-histories origin master**
 for change proxy for git write command ***atom ~/.gitconfig***
 
 for customize buttons **https://github.com/hoang8f/android-flat-button**
