@@ -41,6 +41,13 @@ Android Multithreading Basics
 	**https://www.youtube.com/watch?v=kpFwxJFYnOo&list=PLfuE3hOAeWhYspjqABfkf97AzW1XNXgjZ**
 
 
+Type-safe HTTP client for Android and Java by Square, Inc. http://square.github.io/retrofit/
+	**https://github.com/square/retrofit**
+
+
+Active record style SQLite persistence for Android http://www.activeandroid.com
+	**https://github.com/pardom-zz/ActiveAndroid**
+
 
 
 **Links That I have seen**
