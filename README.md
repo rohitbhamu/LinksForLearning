@@ -8,7 +8,10 @@ just trying to learn some git commands so playing with them
 for change proxy for git write command ***atom ~/.gitconfig***
 
 **Github repo that have appointment schduling** this repo can be helpful for me
-	**https://github.com/alextselegidis/easyappointments**
+	web version **https://github.com/alextselegidis/easyappointments** 
+	android version **https://github.com/alextselegidis/easyappointments-android-client**
+	
+	
 
 for customize buttons **https://github.com/hoang8f/android-flat-button**
       add in gradle build file **implementation 'info.hoang8f:fbutton:1.0.5'**
