@@ -55,3 +55,12 @@ Active record style SQLite persistence for Android http://www.activeandroid.com
 
 The Firebase Database for SQL developers
 	**https://www.youtube.com/watch?v=WacqhiI-g_o&list=PLl-K7zZEsYLlP-k-RKFa7RyNPa9_wCH2s**
+	
+Android Multithreading Basics
+	**https://www.youtube.com/watch?v=kpFwxJFYnOo&list=PLfuE3hOAeWhYspjqABfkf97AzW1XNXgjZ**
+
+Android Sharedprefernece
+	**https://www.youtube.com/playlist?list=PLfuE3hOAeWhYHspDWUIBFGEacycoAWDCt**
+	
+Android Dialogs
+	**https://www.youtube.com/playlist?list=PLfuE3hOAeWhYmxCVMck_voZPJqlORxAkU**
