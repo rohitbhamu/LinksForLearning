@@ -60,7 +60,6 @@ Android Multithreading Basics
 	**https://www.youtube.com/watch?v=kpFwxJFYnOo&list=PLfuE3hOAeWhYspjqABfkf97AzW1XNXgjZ**
 
 Android Sharedprefernece
-	**https://www.youtube.com/playlist?list=PLfuE3hOAeWhYHspDWUIBFGEacycoAWDCt**
-	
+	**https://www.youtube.com/watch?v=aV2Tb9G_-SQ&index=1&list=PLfuE3hOAeWhYHspDWUIBFGEacycoAWDCt**	
 Android Dialogs
-	**https://www.youtube.com/playlist?list=PLfuE3hOAeWhYmxCVMck_voZPJqlORxAkU**
+	**https://www.youtube.com/watch?v=5rtqVum9igg&t=1s&index=2&list=PLfuE3hOAeWhYmxCVMck_voZPJqlORxAkU**
