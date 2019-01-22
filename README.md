@@ -28,17 +28,10 @@ Mindorks blog for RxJava
 Link for converting simple file to json online Or Live JSON Generator
 	**http://www.objgen.com/json**
 
-Dialog in android
-	**https://www.youtube.com/watch?v=5rtqVum9igg&list=PLfuE3hOAeWhYmxCVMck_voZPJqlORxAkU**
 	
 Android Data persistance
 	**https://www.youtube.com/watch?v=-RJvbivauBQ&list=PLfuE3hOAeWhYS7M0laxsBhJfYGB9m1PZs**
 	
-Shared Preference 
-	**https://www.youtube.com/watch?v=aV2Tb9G_-SQ&list=PLfuE3hOAeWhYHspDWUIBFGEacycoAWDCt**
-	
-Android Multithreading Basics
-	**https://www.youtube.com/watch?v=kpFwxJFYnOo&list=PLfuE3hOAeWhYspjqABfkf97AzW1XNXgjZ**
 
 
 Type-safe HTTP client for Android and Java by Square, Inc. http://square.github.io/retrofit/
@@ -47,6 +40,9 @@ Type-safe HTTP client for Android and Java by Square, Inc. http://square.github.
 
 Active record style SQLite persistence for Android http://www.activeandroid.com
 	**https://github.com/pardom-zz/ActiveAndroid**
+	
+Android Notification Tutorial
+	**https://www.youtube.com/watch?v=B-G9283Ssd4&index=2&t=1s&list=PLk7v1Z2rk4hjM2NPKqtWQ_ndCuoqUj5Hh**
 
 
 
@@ -61,5 +57,8 @@ Android Multithreading Basics
 
 Android Sharedprefernece
 	**https://www.youtube.com/watch?v=aV2Tb9G_-SQ&index=1&list=PLfuE3hOAeWhYHspDWUIBFGEacycoAWDCt**	
+	
 Android Dialogs
 	**https://www.youtube.com/watch?v=5rtqVum9igg&t=1s&index=2&list=PLfuE3hOAeWhYmxCVMck_voZPJqlORxAkU**
+	
+
