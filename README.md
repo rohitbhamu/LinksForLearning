@@ -28,10 +28,6 @@ Mindorks blog for RxJava
 Link for converting simple file to json online Or Live JSON Generator
 	**http://www.objgen.com/json**
 
-	
-Android Data persistance
-	**https://www.youtube.com/watch?v=-RJvbivauBQ&list=PLfuE3hOAeWhYS7M0laxsBhJfYGB9m1PZs**
-	
 
 
 Type-safe HTTP client for Android and Java by Square, Inc. http://square.github.io/retrofit/
@@ -43,7 +39,15 @@ Active record style SQLite persistence for Android http://www.activeandroid.com
 	
 Android Notification Tutorial
 	**https://www.youtube.com/watch?v=B-G9283Ssd4&index=2&t=1s&list=PLk7v1Z2rk4hjM2NPKqtWQ_ndCuoqUj5Hh**
-
+	
+Android Data persistance
+	**https://www.youtube.com/watch?v=-RJvbivauBQ&list=PLfuE3hOAeWhYS7M0laxsBhJfYGB9m1PZs**
+	
+Web services and android 
+	https://www.youtube.com/watch?v=cCV-GIYMjFc&index=1&list=PLfuE3hOAeWhYqwh7ZWba1_kDEvZshIdpj
+	
+Making order food application
+	https://www.youtube.com/watch?v=dJm7LACOn80&list=PLaoF-xhnnrRW4lXuIhNLhgVuYkIlF852V&index=2
 
 
 **Links That I have seen**
