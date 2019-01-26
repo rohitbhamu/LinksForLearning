@@ -65,4 +65,7 @@ Android Sharedprefernece
 Android Dialogs
 	**https://www.youtube.com/watch?v=5rtqVum9igg&t=1s&index=2&list=PLfuE3hOAeWhYmxCVMck_voZPJqlORxAkU**
 	
+Firebase authentication Tutorials
+	**https://www.youtube.com/watch?v=mF5MWLsb4cg&list=PLk7v1Z2rk4hi_LdvJ2V5-VvZfyfSdY5hy**
+	
 
