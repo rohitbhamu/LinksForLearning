@@ -44,10 +44,16 @@ Android Data persistance
 	**https://www.youtube.com/watch?v=-RJvbivauBQ&list=PLfuE3hOAeWhYS7M0laxsBhJfYGB9m1PZs**
 	
 Web services and android 
-	https://www.youtube.com/watch?v=cCV-GIYMjFc&index=1&list=PLfuE3hOAeWhYqwh7ZWba1_kDEvZshIdpj
+	**https://www.youtube.com/watch?v=cCV-GIYMjFc&index=1&list=PLfuE3hOAeWhYqwh7ZWba1_kDEvZshIdpj**
 	
 Making order food application
-	https://www.youtube.com/watch?v=dJm7LACOn80&list=PLaoF-xhnnrRW4lXuIhNLhgVuYkIlF852V&index=2
+	**https://www.youtube.com/watch?v=dJm7LACOn80&list=PLaoF-xhnnrRW4lXuIhNLhgVuYkIlF852V&index=2**
+	
+Android architecture components 
+	**https://www.youtube.com/watch?v=ARpn-1FPNE4&list=PLrnPJCHvNZuDihTpkRs6SpZhqgBqPU118**
+	
+Android room with a view
+	**https://codelabs.developers.google.com/codelabs/android-room-with-a-view/?fbclid=IwAR3PWerOZaVz3SKQh4TUz1g5R-__s2uGqV1HwxZZth0EHEn-lwquF_S6ALg#0**
 
 
 **Links That I have seen**
