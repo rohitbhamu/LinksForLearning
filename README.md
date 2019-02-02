@@ -77,4 +77,7 @@ Android Dialogs
 Firebase authentication Tutorials
 	**https://www.youtube.com/watch?v=mF5MWLsb4cg&list=PLk7v1Z2rk4hi_LdvJ2V5-VvZfyfSdY5hy**
 	
+Firebase phoneAuthentication
+	**https://www.youtube.com/watch?v=JZ8hwzBKsMM**
+	
 
