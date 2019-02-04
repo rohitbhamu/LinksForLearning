@@ -7,6 +7,8 @@ just trying to learn some git commands so playing with them
 	**git pull --allow-unrelated-histories origin master**
 for change proxy for git write command ***atom ~/.gitconfig***
 
+for **setting up and Up Button** in any android app go to manifest and give parent activity to that activity to which you want ot give an Up button and in that activity write getSupportActionBar.setDisplayHomeAsUpEnabled(true);
+
 **Github repo that have appointment schduling** this repo can be helpful for me
 	web version **https://github.com/alextselegidis/easyappointments** 
 	android version **https://github.com/alextselegidis/easyappointments-android-client**
