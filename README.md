@@ -62,6 +62,9 @@ Navigation-Android Programming
 	
 Firebase Tutorials by Coding in flow
 	**https://www.youtube.com/watch?v=JVokoelQ1RI&list=PLrnPJCHvNZuBf5KH4XXOthtgo6E4Epjl8&index=1**
+	
+Android Studio - Firebase Backend Tutorial Full course
+	**https://www.youtube.com/watch?v=i-gZAYBMuBs&list=PLGCjwl1RrtcTXrWuRTa59RyRmQ4OedWrt**
 
 
 **Links That I have seen**
